@@ -1,4 +1,10 @@
 # taxi-trip-hackathon
+
+
+Using this dataset, the participants need to build machine learning models for predicting the trip fare based on the given other useful features of the trip.
+
+
+
 https://machinehack.com/hackathons/iiit_nr_taxi_trip_fare_prediction_challenge/overview
 
 Train: 35000 rows x 20 columns 
